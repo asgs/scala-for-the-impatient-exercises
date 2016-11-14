@@ -1,0 +1,1 @@
+This contains the solutions given for the exercises in the book "Scala for the Impatient".
