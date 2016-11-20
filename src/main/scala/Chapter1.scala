@@ -1,6 +1,6 @@
-object Main extends App
+object Main1 extends App
 {
-  new Chapter1().printAnswers
+  new Chapter1 printAnswers
 }
 
 class Chapter1 {
